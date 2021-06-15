@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Python
+2. PowerShell
+3. Go
+4. Kotlin
